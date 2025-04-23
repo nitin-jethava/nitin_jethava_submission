@@ -1,0 +1,11 @@
+# Build files
+a.out
+
+# Python bytecode files
+__pycache__/
+
+# IDE files
+.vscode/
+*.project
+*.cproject
+*.settings/
